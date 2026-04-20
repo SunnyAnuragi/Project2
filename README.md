@@ -1,3 +1,3 @@
 # New project
 This project was created from local system.
-created by sunny anuragigit sta
+created by sunny anuragi
